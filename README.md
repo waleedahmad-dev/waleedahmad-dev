@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**waleed-abark/waleed-abark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Waleed Ahmad  
 
-Here are some ideas to get you started:
+**🌟 Senior Fullstack Engineer**  
+**🏢 AB {ARK} Private Limited**  
+**🌐 MERN | Python | Generative AI | DevOps**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+
+Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 4+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, **Generative AI**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
+
+---
+
+## 🛠️ Skills & Expertise  
+
+### 💻 **Fullstack Development**  
+- **Frontend:** React.js, Material-UI, Next.js  
+- **Backend:** Node.js, Express.js, Django, Flask  
+
+### 📊 **Generative AI**  
+- OpenAI APIs, LangChain, Hugging Face Transformers  
+- Building AI-powered applications  
+
+### ⚙️ **DevOps**  
+- Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins)  
+- Cloud Platforms: AWS, GCP, Azure  
+
+### 🔧 **Other Tools & Technologies**  
+- Database Management: MongoDB, PostgreSQL  
+- Version Control: Git, GitHub, GitLab  
+- Testing: Jest, Mocha, Cypress  
+
+---
+
+## 🏆 Achievements  
+- Successfully led multiple fullstack projects from ideation to deployment.  
+- Designed and implemented scalable backend solutions handling millions of requests.  
+- Developed AI-powered tools that enhanced efficiency and user engagement.  
+
+---
+
+## 📫 Let's Connect  
+
+- **GitHub:** [github.com/waleed-abark](#)  
+- **Email:** [waleed.ahmad@abark.pk](#)  
+
+---
+
+**"Innovating one line of code at a time."** ✨
