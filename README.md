@@ -17,15 +17,15 @@ Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 4+ 
 ## 🛠️ Skills & Expertise  
 
 ### 💻 **Fullstack Development**  
-- **Frontend:** React.js, Material-UI, Next.js  
-- **Backend:** Node.js, Express.js, Django, Flask  
+- **Frontend:** React.js, Material-UI, Next.js, TailwindCSS
+- **Backend:** Node.js, Express.js, NestJS, RxJS, Laravel, FastAPI
 
 ### 📊 **Generative AI**  
 - OpenAI APIs, LangChain, Hugging Face Transformers  
 - Building AI-powered applications  
 
 ### ⚙️ **DevOps**  
-- Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins)  
+- Docker, CI/CD Pipelines (GitHub Actions, Jenkins)  
 - Cloud Platforms: AWS, GCP, Azure  
 
 ### 🔧 **Other Tools & Technologies**  
