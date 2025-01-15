@@ -44,7 +44,7 @@ Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 4+ 
 
 ## 📫 Let's Connect  
 
-- **GitHub:** [github.com/waleed-abark](#)  
+- **GitHub:** [github.com/waleedahmad-dev](#)  
 - **Email:** [waleed.ahmad@abark.pk](#)  
 
 ---
