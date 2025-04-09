@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&duration=2000&pause=1000&color=36F781&width=444&lines=Waleed+Ahmad;Sr.+Full+Stack+Engineer;Node%2C+Python%2C+AI)](https://git.io/typing-svg)
 # 💻 Waleed Ahmad  
 
