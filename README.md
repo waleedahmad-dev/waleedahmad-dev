@@ -56,3 +56,14 @@ Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 4+ 
 ---
 
 **"Innovating one line of code at a time."** ✨
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=waleedahmad-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=waleedahmad-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=waleedahmad-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=waleedahmad-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
