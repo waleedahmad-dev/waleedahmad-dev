@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 4+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, **Generative AI**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
+Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 6+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, **Generative AI**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
 
 ---
 
