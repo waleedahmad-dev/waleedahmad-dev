@@ -18,7 +18,7 @@ Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 6+ 
 
 ### 💻 **Fullstack Development**  
 - **Frontend:** React.js, Material-UI, Next.js, TailwindCSS
-- **Backend:** Node.js, Express.js, NestJS, RxJS, Laravel, FastAPI
+- **Backend:** Node.js, Express.js, NestJS, RxJS, Laravel, FastAPI, Go (gqlgen)
 
 ### 📊 **Generative AI**  
 - OpenAI APIs, LangChain, Hugging Face Transformers  
@@ -51,7 +51,7 @@ Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 6+ 
 ## 📫 Let's Connect  
 
 - **GitHub:** [github.com/waleedahmad-dev](#)  
-- **Email:** [name1swaleed@gmail.com](#)  
+- **Email:** [hello@waleedahmad.dev](#)  
 
 ---
 
