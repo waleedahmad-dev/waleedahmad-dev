@@ -1,8 +1,8 @@
 ## Hi there 👋🏻	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&duration=2000&pause=1000&color=36F781&width=444&lines=Waleed+Ahmad;Sr.+Full+Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&duration=2000&pause=1000&color=36F781&width=444&lines=Waleed+Ahmad;Engineering+Manager)](https://git.io/typing-svg)
 # 💻 Waleed Ahmad  
 
-**🌟 Senior Fullstack Engineer**  
+**🌟 Engineering Manager**  
 **🏢 AB {ARK} Private Limited**  
 **🌐 MERN | Python | Generative AI | DevOps**  
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-Hello! I'm **Waleed Ahmad**, a passionate **Senior Fullstack Engineer** with 6+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, **Generative AI**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
+Hello! I'm **Waleed Ahmad**, a passionate **Engineering Manager** with 7+ years of experience crafting scalable, efficient, and user-centric web applications. My expertise spans a wide range of technologies, with a focus on **MERN Stack**, **Python**, **Generative AI**, and **DevOps** practices. I thrive on solving complex problems and driving innovation in the tech space.
 
 ---
 
